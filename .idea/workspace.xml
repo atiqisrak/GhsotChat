@@ -20,9 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bb0f686d-ebc7-4d20-97da-7cd1e2d222e6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/GhsotChat.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,8 +66,13 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="100" y="100" width="1720" height="880" key="AVDManager" timestamp="1611386942774">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="100" y="100" width="1720" height="880" key="AVDManager/-1360.156.1360.768/0.0.1920.1080@0.0.1920.1080" timestamp="1611386942774" />
     <state x="461" y="184" key="SettingsEditor" timestamp="1611379858881">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
