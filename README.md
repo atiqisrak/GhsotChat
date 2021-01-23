@@ -1,4 +1,5 @@
 # GhostChat
+https://img.shields.io/badge/GhostBOT-Niloy-orange
 
 ## Framework7 CLI Options
 ![License](https://img.shields.io/github/license/atiqisrak/GhsotChat?logo=Ghostery&logoColor=orange)
@@ -56,6 +57,30 @@ Framework7 app created with following options:
 * 📱 `cordova-ios` - run dev build cordova iOS app
 * 📱 `build-cordova-android` - build cordova Android app
 * 📱 `cordova-android` - run dev build cordova Android app
+
+✔ Generating package.json
+✔ Creating required folders structure
+✔ Installing NPM Dependencies
+✔ Installing NPM Dev Dependencies
+✔ Executing NPM Scripts
+✔ Creating Cordova project
+✔ Creating project files
+√ Done! 💪
+
+i Next steps:
+  - 🔥 Run "npm run start" - run development server
+  - 🔧 Run "npm run dev" - run development server
+  - 🔧 Run "npm run build" - build web app for production
+  - 📱 Run "npm run build-cordova" - build cordova app
+  - 📱 Run "npm run build-cordova-ios" - build cordova iOS app
+  - 📱 Run "npm run cordova-ios" - run dev build cordova iOS app
+  - 📱 Run "npm run build-cordova-android" - build cordova Android app
+  - 📱 Run "npm run cordova-android" - run dev build cordova Android app
+  - 📖 Visit documentation at https://framework7.io/docs/
+  - 📖 Check README.md in project root folder with further instructions
+
+Love Framework7? Support project by donating or pledging on patreon:
+https://patreon.com/vladimirkharlampidi
 
 ## WebPack
 
