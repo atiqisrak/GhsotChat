@@ -1,7 +1,7 @@
 # GhostChat
-![License](https://img.shields.io/badge/GhostBOT-Niloy-orange)
-
-![License](https://img.shields.io/github/license/atiqisrak/GhsotChat?logo=Ghostery&logoColor=orange)
+![badge](https://img.shields.io/badge/GhostBOT-Niloy-orange)
+![badge](https://img.shields.io/github/downloads/atiqisrak/GhsotChat/total?color=blue)
+![badge](https://img.shields.io/github/license/atiqisrak/GhsotChat?logo=Ghostery&logoColor=orange)
 
 ## Framework7 CLI Options
 Framework7 app created with following options:
